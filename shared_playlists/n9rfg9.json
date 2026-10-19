@@ -1,0 +1,22 @@
+{
+  "n": "Lucos playlist",
+  "c": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=600",
+  "cl": "#38bdf8",
+  "p": false,
+  "t": [
+    {
+      "i": "1",
+      "ti": "Starboy",
+      "a": "The Weeknd",
+      "d": 230,
+      "ds": "3:50"
+    },
+    {
+      "i": "2",
+      "ti": "Die For You",
+      "a": "The Weeknd",
+      "d": 210,
+      "ds": "3:30"
+    }
+  ]
+}
